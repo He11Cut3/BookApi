@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "___",
+    "password": "___",
+    "database": "Book",
+    "host": "___",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "___",
+    "password": "___",
+    "database": "Book",
+    "host": "___",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "___",
+    "password": "___",
+    "database": "Book",
+    "host": "___",
+    "dialect": "mssql"
+  }
+}
